@@ -3,24 +3,24 @@ package br.usjt.desvmob.calculadoramvc.model;
 public class Calculadora {
     String valor1, valor2, operador, resultado;
 
-    public String getValor1() {
-        return valor1;
+    public String getValor1(String valor1) {
+        return this.valor1;
     }
 
     public void setValor1(String valor1) {
         this.valor1 = valor1;
     }
 
-    public String getValor2() {
-        return valor2;
+    public String getValor2(String valor2) {
+        return this.valor2;
     }
 
     public void setValor2(String valor2) {
         this.valor2 = valor2;
     }
 
-    public String getOperador() {
-        return operador;
+    public String getOperador(String operador) {
+        return this.operador;
     }
 
     public void setOperador(String operador) {

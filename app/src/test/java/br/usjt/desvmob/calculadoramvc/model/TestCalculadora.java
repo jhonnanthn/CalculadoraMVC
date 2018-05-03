@@ -1,8 +1,8 @@
-package br.usjt.desvmob.calculadoramvc;
+package br.usjt.desvmob.calculadoramvc.model;
 
 import org.junit.Test;
 
-import br.usjt.deswebmob.calculadoramvc.model.Calculadora;
+import br.usjt.desvmob.calculadoramvc.model.Calculadora;
 
 import static junit.framework.Assert.assertEquals;
 
